@@ -1,0 +1,10 @@
+button {
+    margin-left: 200px;
+    text-align: center;
+}
+
+.container-fluid {
+    margin-top: 150px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+}
